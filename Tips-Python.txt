@@ -1,0 +1,30 @@
+
+
+% Learning python:
+[Basic]
+https://www.zhihu.com/question/37180159
+[Start Intro]
+http://python.jobbole.com/80853/
+
+% Numpy intro:
+http://old.sebug.net/paper/books/scipydoc/numpy_intro.html
+
+% Scipy lecture notes:
+http://www.scipy-lectures.org/
+
+% Scipy quick start:
+https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+
+% Pandas quick start: 10 min to pandas
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+
+% Python data mining small example:
+http://www.zhihu.com/question/28975391/answer/69556795
+
+% Seaborn:
+http://seaborn.pydata.org/index.html
+http://blog.insightdatalabs.com/advanced-functionality-in-seaborn/
+
+% Intro video of numpy + pandas:
+https://www.youtube.com/watch?v=To3YL92HZyc&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4
+
