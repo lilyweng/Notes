@@ -1,0 +1,17 @@
+% Started learning to use gitHub on 10.26.2016
+
+
+% Hello-world tutorial
+https://guides.github.com/activities/hello-world/
+
+% other github guides
+https://guides.github.com/
+
+% github on youtube
+https://www.youtube.com/githubguides
+
+
+% Commit at GitHub Desktop and push to remote GitHub website:
+https://help.github.com/desktop/guides/contributing/committing-and-reviewing-changes-to-your-project/
+
+% Create pull request on GitHub Desktop
