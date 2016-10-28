@@ -1,0 +1,25 @@
+
+
+
+* Anaconda 3
+- IDE, iPython Icons disappeared
+[sol] install menu shortcuts - go to anaconda command prompt and type:
+$ conda update menuinst
+$ conda install -f console_shortcut ipython ipython-notebook ipython-qtconsole launcher spyder
+
+- Anaconda installation:
+http://darren1231.pixnet.net/blog/post/328443678-python-%E6%96%B0%E6%89%8B%E7%9A%84%E6%95%91%E6%98%9F--anaconda%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AE%89%E8%A3%9D
+
+- Anaconda update:
+# ????
+conda install ????
+# ????
+conda update ????
+# ??????
+conda update --all
+#??conda
+conda update conda
+conda update anaconda
+
+
+
